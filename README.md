@@ -16,4 +16,7 @@ This is an archive of my ideas that I think could be future directions of resear
 [Towards a Mechanistic Explanation of Diffusion Model Generalization](https://arxiv.org/abs/2411.19339)
 
 
+## 10/20 Efficient Sampling for Langevin Dynamics and diffusion models
+
+
 
